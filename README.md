@@ -93,4 +93,8 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 
 Desenvolvido por **Natália** na disciplina de Engenharia de Software III do curso de ADS, este projeto visa o aprendizado e a aplicação de tecnologias modernas em soluções empresariais.
 
+## Licença
 
+Este projeto está sob a licença MIT - consulte o arquivo LICENSE para mais detalhes.
+
+---
